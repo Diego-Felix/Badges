@@ -1,3 +1,3 @@
+const pair = "textbadge";
 
 
-const pair = "keyextraordinaire";
