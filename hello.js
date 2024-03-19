@@ -1,1 +1,1 @@
-const pair = "badgeextraordinaire";
+const pair = "textbadge";
